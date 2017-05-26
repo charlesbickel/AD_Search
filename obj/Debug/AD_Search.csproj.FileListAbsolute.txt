@@ -1,0 +1,9 @@
+c:\users\charles.bickel\documents\visual studio 2015\Projects\AD_Search\AD_Search\bin\Debug\AD_Search.exe.config
+C:\Users\charles.bickel\Documents\Visual Studio 2015\Projects\AD_Search\AD_Search\bin\Debug\AD_Search.exe
+C:\Users\charles.bickel\Documents\Visual Studio 2015\Projects\AD_Search\AD_Search\bin\Debug\AD_Search.pdb
+C:\Users\charles.bickel\Documents\Visual Studio 2015\Projects\AD_Search\AD_Search\obj\Debug\AD_Search.csprojResolveAssemblyReference.cache
+C:\Users\charles.bickel\Documents\Visual Studio 2015\Projects\AD_Search\AD_Search\obj\Debug\AD_Search.Form1.resources
+C:\Users\charles.bickel\Documents\Visual Studio 2015\Projects\AD_Search\AD_Search\obj\Debug\AD_Search.Properties.Resources.resources
+C:\Users\charles.bickel\Documents\Visual Studio 2015\Projects\AD_Search\AD_Search\obj\Debug\AD_Search.csproj.GenerateResource.Cache
+C:\Users\charles.bickel\Documents\Visual Studio 2015\Projects\AD_Search\AD_Search\obj\Debug\AD_Search.exe
+C:\Users\charles.bickel\Documents\Visual Studio 2015\Projects\AD_Search\AD_Search\obj\Debug\AD_Search.pdb
